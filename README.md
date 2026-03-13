@@ -68,6 +68,8 @@ Como a metodologia envolve fornecer feedback regular e garantir a participação
 
 Embora a metodologia Scrum possua inúmeras vantagens, muitos profissionais e equipes ainda preferem outras abordagens para a gestão de projetos. É importante conhecer as limitações do Scrum para saber se essa abordagem é a mais adequada para a realidade da sua organização. Algumas das principais desvantagens incluem:
 
+<img src="desvantagens.png">
+
 **1. Requer indivíduos experientes**
 Normalmente, as organizações precisam de funcionários altamente qualificados e experientes para conduzir projetos Scrum. Se a equipe não tiver experiência prévia com métodos ágeis, poderá ser muito difícil gerenciar o fluxo de trabalho. Além disso, o treinamento e a curva de aprendizado dos funcionários podem aumentar os custos iniciais.
 
