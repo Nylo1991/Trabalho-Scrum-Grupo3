@@ -87,5 +87,12 @@ Trabalhar com a hierarquia organizacional tradicional usando Scrum pode gerar co
 **5. Requer testes rigorosos**
 O Scrum é um processo ágil focado na entrega iterativa de valor de negócio por meio de inspeção, adaptação e colaboração contínuas. Como as equipes precisam entregar um incremento de software (ou produto) funcional a cada *sprint*, isso exige uma rotina de testes extremamente rigorosa e frequente para garantir a qualidade enquanto a equipe aprimora continuamente seu trabalho.
 
+Onde aplicar o Scrum
+
+Embora o Scrum tenha surgido inicialmente no desenvolvimento de software, atualmente essa metodologia pode ser aplicada em diversos tipos de projetos. Seu uso não se limita apenas à área de tecnologia, sendo também adotado por equipes de marketing, vendas, design, recursos humanos e até setores administrativos. Isso ocorre porque o Scrum contribui para a organização das atividades, melhora a comunicação entre os membros da equipe e possibilita alcançar resultados de forma mais eficiente.
+
+O Scrum é especialmente recomendado para projetos mais complexos, que envolvem diferentes participantes e apresentam mudanças frequentes ao longo do processo. Sua estrutura é baseada em ciclos curtos de trabalho, chamados de sprints, que permitem acompanhar o progresso das atividades de forma contínua. Dessa forma, a equipe consegue identificar problemas rapidamente, realizar ajustes quando necessário e manter todos os envolvidos alinhados com os objetivos do projeto.
+
+Outra característica importante do Scrum é a sua flexibilidade. Quando surge a necessidade de modificar ou adaptar o escopo do projeto, a metodologia permite reorganizar prioridades sem comprometer a entrega final. Essa capacidade de adaptação é essencial em ambientes dinâmicos, nos quais as demandas e as condições do mercado podem mudar rapidamente.
 
 
