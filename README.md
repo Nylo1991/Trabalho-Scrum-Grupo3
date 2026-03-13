@@ -40,14 +40,6 @@ Para que a transparência e a colaboração ocorram (especialmente em equipes re
 ·         Azure DevOps (Azure Boards): Muito forte em empresas que utilizam o ecossistema Microsoft. Tem a vantagem de integrar o planejamento das Sprints diretamente com o repositório de código (Git) e com a esteira de testes automatizados.
 ·         Confluence / Notion: Ferramentas associadas para documentação. Como o Scrum diz que "software a funcionar é mais importante que documentação abrangente", estas ferramentas servem para criar documentação técnica ágil, como regras de negócio e arquitetura, de forma colaborativa.
 
-Olá! Parece que você está preparando um documento técnico sobre Scrum e organizando as diretrizes de formatação da ABNT para o seu editor de texto.
-
-Para facilitar o seu trabalho, eu limpei e organizei o texto que você enviou. **Removi o parágrafo que estava duplicado** na seção sobre transparência e **excluí a frase promocional** do final, deixando o conteúdo com um tom formal e pronto para ser colado no seu trabalho acadêmico ou técnico.
-
-Aqui está o texto revisado:
-
----
-
 ### Quais são as vantagens do Scrum?
 
 Seja no desenvolvimento de software ou no setor médico, o Scrum facilita a execução do trabalho por meio de experimentação contínua e feedback constante, aprimorando a qualidade do produto. Embora essa seja apenas uma das qualidades, existem muitas outras vantagens nesse método. Vejamos algumas delas:
@@ -69,4 +61,27 @@ As reuniões diárias de Scrum facilitam a atualização do progresso, a identif
 
 **Transparente**
 Como a metodologia envolve fornecer feedback regular e garantir a participação de cada membro da equipe, até mesmo pequenas modificações feitas no projeto (em qualquer nível) ficam visíveis para todos os membros da equipe. Dessa forma, constrói-se confiança e garante-se a entrega de produtos de melhor qualidade, promovendo ainda mais a transparência.
+
+
+
+### Quais são as desvantagens do Scrum?
+
+Embora a metodologia Scrum possua inúmeras vantagens, muitos profissionais e equipes ainda preferem outras abordagens para a gestão de projetos. É importante conhecer as limitações do Scrum para saber se essa abordagem é a mais adequada para a realidade da sua organização. Algumas das principais desvantagens incluem:
+
+**1. Requer indivíduos experientes**
+Normalmente, as organizações precisam de funcionários altamente qualificados e experientes para conduzir projetos Scrum. Se a equipe não tiver experiência prévia com métodos ágeis, poderá ser muito difícil gerenciar o fluxo de trabalho. Além disso, o treinamento e a curva de aprendizado dos funcionários podem aumentar os custos iniciais.
+
+**2. Expansão do escopo**
+Os projetos Scrum seguem uma abordagem iterativa e flexível, mantendo-se fiéis aos cronogramas ou marcos predeterminados com base no escopo e nas entregas acordadas. No entanto, se o escopo não for bem controlado ou se algum membro fundamental da equipe se desligar durante o processo, o risco de falha do projeto aumenta. Por isso, é crucial utilizar técnicas eficazes de estimativa para lidar com incertezas e manter a estabilidade.
+
+**3. Ineficaz com equipes grandes**
+O framework Scrum não foi projetado para lidar eficientemente com projetos excessivamente grandes ou com equipes muito numerosas. Gerenciar dezenas de pessoas dentro das cerimônias do Scrum (como as reuniões diárias) pode ser desafiador e frequentemente leva a falhas de comunicação e dificuldades de coordenação. Em escalas maiores, os projetos podem se tornar excessivamente complexos de implementar.
+
+**4. Altera o ambiente de trabalho padronizado**
+Trabalhar com a hierarquia organizacional tradicional usando Scrum pode gerar conflitos. O Scrum exige colaboração horizontal entre o Product Owner, o Scrum Master e a Equipe de Desenvolvimento. Isso rompe com as estruturas hierárquicas clássicas de "chefe e subordinado" para promover o trabalho em equipe, o que pode causar resistência em culturas corporativas mais rígidas.
+
+**5. Requer testes rigorosos**
+O Scrum é um processo ágil focado na entrega iterativa de valor de negócio por meio de inspeção, adaptação e colaboração contínuas. Como as equipes precisam entregar um incremento de software (ou produto) funcional a cada *sprint*, isso exige uma rotina de testes extremamente rigorosa e frequente para garantir a qualidade enquanto a equipe aprimora continuamente seu trabalho.
+
+
 
