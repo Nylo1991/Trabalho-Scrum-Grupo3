@@ -44,6 +44,8 @@ Para que a transparência e a colaboração ocorram (especialmente em equipes re
 
 Seja no desenvolvimento de software ou no setor médico, o Scrum facilita a execução do trabalho por meio de experimentação contínua e feedback constante, aprimorando a qualidade do produto. Embora essa seja apenas uma das qualidades, existem muitas outras vantagens nesse método. Vejamos algumas delas:
 
+<img src="vantagens.png">
+
 **Abordagem adaptável**
 A abordagem Scrum baseia-se principalmente na adaptabilidade do projeto. Se a sua organização não possui objetivos predefinidos ou requisitos identificáveis ​​no início do projeto, o Scrum é uma metodologia extremamente útil. Opera principalmente em Sprints, onde as mudanças necessárias em uma Sprint podem ser implementadas em outra. Portanto, permite alterar qualquer projeto sem impactar os resultados.
 
