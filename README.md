@@ -23,3 +23,12 @@ Sprint Retrospective: Reunião focada na melhoria contínua dos processos da pr�
 Os Artefatos: * Product Backlog: A lista de tudo o que é necessário para o produto.
 Sprint Backlog: A lista de tarefas selecionadas para a Sprint atual.
 Incremento: A soma de todos os itens do Backlog concluídos durante a Sprint (o software pronto a usar).
+
+
+
+2. Tipos de Projetos Mais Adequados
+O Scrum não é uma "bala de prata" que serve para tudo. Ele brilha em ambientes complexos e de alta incerteza.
+·         Projetos com Requisitos Mutáveis: Se o cliente não sabe exatamente o que quer desde o início, ou se o mercado muda rapidamente, o Scrum é ideal. A cada Sprint, o rumo pode ser ajustado.
+·         Desenvolvimento de Software Inovador e Startups: Criação de novos aplicativos, plataformas web SaaS (Software as a Service) ou MVPs (Minimum Viable Products). Nestes casos, o tempo de lançamento no mercado (Time-to-Market) é crucial, e o Scrum permite lançar versões básicas rapidamente e melhorá-las interativamente.
+·         Modernização de Sistemas Legados: Quando se está a reescrever um sistema antigo, a equipe pode ir substituindo e entregando módulos aos poucos usando Sprints, em vez de tentar mudar tudo de uma vez.
+Onde NÃO usar: Projetos simples, previsíveis e com escopo fechado (como a construção de um muro padrão ou a montagem de peças numa fábrica) não beneficiam do Scrum, pois a sobrecarga de reuniões (Daily, Review, Retrospective) não compensa.
