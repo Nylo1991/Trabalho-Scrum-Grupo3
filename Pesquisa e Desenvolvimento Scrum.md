@@ -151,7 +151,8 @@ Enquanto o Lean busca melhorar todo o sistema de entrega de valor, o Scrum aplic
 
                                                                                                                              
                                                                                                                              
-## Tabela  – Comparação entre metodologias de gerenciamento de projetos
+**Uma comparação entre diferentes metodologias de gerenciamento de projetos, destacando as principais diferenças entre Scrum e outras abordagens amplamente utilizadas. Cada metodologia possui características próprias e pode ser aplicada de acordo com o tipo de projeto, nível de complexidade e necessidade de adaptação às mudanças.**
+
 | Comparações | Scrum | Cascata (Waterfall) | Kanban | XP (Extreme Programming) | Lean |
 |----------|-------|---------------------|--------|---------------------------|------|
 | **Tipo de abordagem** | Metodologia ágil baseada em ciclos iterativos. | Metodologia tradicional baseada em etapas sequenciais. | Método ágil focado em fluxo contínuo de trabalho. | Metodologia ágil voltada para práticas de desenvolvimento de software. | Filosofia de gestão voltada para eficiência e eliminação de desperdícios. |
