@@ -96,8 +96,9 @@ Embora o Scrum tenha surgido inicialmente no desenvolvimento de software, atualm
 O Scrum é especialmente recomendado para projetos mais complexos, que envolvem diferentes participantes e apresentam mudanças frequentes ao longo do processo. Sua estrutura é baseada em ciclos curtos de trabalho, chamados de sprints, que permitem acompanhar o progresso das atividades de forma contínua. Dessa forma, a equipe consegue identificar problemas rapidamente, realizar ajustes quando necessário e manter todos os envolvidos alinhados com os objetivos do projeto.
 
 Outra característica importante do Scrum é a sua flexibilidade. Quando surge a necessidade de modificar ou adaptar o escopo do projeto, a metodologia permite reorganizar prioridades sem comprometer a entrega final. Essa capacidade de adaptação é essencial em ambientes dinâmicos, nos quais as demandas e as condições do mercado podem mudar rapidamente.
-
+                                                                                                                                                                                                                                                                                                                                                                            
 Referências Bibliográficas 
+
 SCHWABER, Ken; SUTHERLAND, Jeff. O Guia do Scrum: O Guia Definitivo para o Scrum: As Regras do Jogo. [S.l.]: Scrum.org, 2020. Disponível em: https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Portuguese-Brazilian.pdf. Acesso em: 12 mar. 2026.
 SUTHERLAND, Jeff. Scrum: A arte de fazer o dobro do trabalho na metade do tempo. Rio de Janeiro: Leya, 2014.
 SOMMERVILLE, Ian. Engenharia de Software. 10. ed. São Paulo: Pearson Education do Brasil, 2019.
