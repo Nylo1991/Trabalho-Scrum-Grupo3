@@ -2,7 +2,7 @@
 
 **Documento de Pesquisa e Desenvolvimento**
 
-1. Definição e Características Principais
+**1. Definição e Características Principais**
 Definição: O Scrum é um framework (estrutura de trabalho) ágil, leve e de fácil compreensão, utilizado para o desenvolvimento, a entrega e a manutenção de produtos complexos. Ao contrário das metodologias tradicionais que exigem um planejamento rígido e detalhado no início (como o modelo em Cascata), o Scrum assume que o conhecimento vem da experiência e de tomar decisões com base no que é observado. Esta abordagem é conhecida como Empirismo.
 O empirismo no Scrum apoia-se em três pilares fundamentais:
 Transparência: O processo e o trabalho devem ser visíveis para aqueles que realizam e para os que recebem o trabalho.
@@ -27,15 +27,14 @@ Sprint Backlog: A lista de tarefas selecionadas para a Sprint atual.
 Incremento: A soma de todos os itens do Backlog concluídos durante a Sprint (o software pronto a usar).
 
 
-
-2. Tipos de Projetos Mais Adequados
+**2. Tipos de Projetos Mais Adequados**
 O Scrum não é uma "bala de prata" que serve para tudo. Ele brilha em ambientes complexos e de alta incerteza.
 ·         Projetos com Requisitos Mutáveis: Se o cliente não sabe exatamente o que quer desde o início, ou se o mercado muda rapidamente, o Scrum é ideal. A cada Sprint, o rumo pode ser ajustado.
 ·         Desenvolvimento de Software Inovador e Startups: Criação de novos aplicativos, plataformas web SaaS (Software as a Service) ou MVPs (Minimum Viable Products). Nestes casos, o tempo de lançamento no mercado (Time-to-Market) é crucial, e o Scrum permite lançar versões básicas rapidamente e melhorá-las interativamente.
 ·         Modernização de Sistemas Legados: Quando se está a reescrever um sistema antigo, a equipe pode ir substituindo e entregando módulos aos poucos usando Sprints, em vez de tentar mudar tudo de uma vez.
 Onde NÃO usar: Projetos simples, previsíveis e com escopo fechado (como a construção de um muro padrão ou a montagem de peças numa fábrica) não beneficiam do Scrum, pois a sobrecarga de reuniões (Daily, Review, Retrospective) não compensa.
 
-3. Ferramentas Associadas
+**3. Ferramentas Associadas**
 Para que a transparência e a colaboração ocorram (especialmente em equipes remotas ou híbridas), o mercado utiliza ferramentas digitais para gerir o Scrum. Elas ajudam a visualizar o fluxo de trabalho, geralmente utilizando quadros Kanban (Colunas: "A Fazer", "Em Progresso", "Concluído").
 ·         Jira Software (Atlassian): É a ferramenta líder de mercado em empresas de médio e grande porte. É altamente customizável, permite gerir backlogs gigantescos, planear Sprints, rastrear bugs (falhas) e gerar relatórios automáticos (como o Burndown Chart, que mostra a velocidade da equipe).
 ·         Trello: Muito visual e intuitivo, baseado em quadros. É excelente para startups, projetos de faculdade ou equipes de software menores. Não tem relatórios avançados como o Jira, mas a sua simplicidade é o seu maior trunfo.
@@ -97,7 +96,7 @@ O Scrum é especialmente recomendado para projetos mais complexos, que envolvem 
 
 Outra característica importante do Scrum é a sua flexibilidade. Quando surge a necessidade de modificar ou adaptar o escopo do projeto, a metodologia permite reorganizar prioridades sem comprometer a entrega final. Essa capacidade de adaptação é essencial em ambientes dinâmicos, nos quais as demandas e as condições do mercado podem mudar rapidamente.
                                                                                                                                                                                                                                                                                                                                                                             
-Referências Bibliográficas 
+**Referências Bibliográficas**
 
 SCHWABER, Ken; SUTHERLAND, Jeff. O Guia do Scrum: O Guia Definitivo para o Scrum: As Regras do Jogo. [S.l.]: Scrum.org, 2020. Disponível em: https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Portuguese-Brazilian.pdf. Acesso em: 12 mar. 2026.
 SUTHERLAND, Jeff. Scrum: A arte de fazer o dobro do trabalho na metade do tempo. Rio de Janeiro: Leya, 2014.
