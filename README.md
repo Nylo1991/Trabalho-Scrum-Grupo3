@@ -1,5 +1,5 @@
 # Trabalho-Scrum-Grupo3
-de desenvolvedores que está em busca de uma metodologia eficiente para o desenvolvimento de sistemas.
+**Documento de Pesquisa e Desenvolvimento**
 1. Definição e Características Principais
 Definição: O Scrum é um framework (estrutura de trabalho) ágil, leve e de fácil compreensão, utilizado para o desenvolvimento, a entrega e a manutenção de produtos complexos. Ao contrário das metodologias tradicionais que exigem um planejamento rígido e detalhado no início (como o modelo em Cascata), o Scrum assume que o conhecimento vem da experiência e de tomar decisões com base no que é observado. Esta abordagem é conhecida como Empirismo.
 O empirismo no Scrum apoia-se em três pilares fundamentais:
