@@ -148,7 +148,21 @@ Já o XP é focado em práticas técnicas de desenvolvimento de software, com o 
 O Lean não é apenas uma metodologia de desenvolvimento, mas sim uma filosofia de gestão que tem como objetivo principal eliminar desperdícios e otimizar processos dentro de uma organização.
 
 Enquanto o Lean busca melhorar todo o sistema de entrega de valor, o Scrum aplica muitos desses princípios dentro de uma estrutura de equipe específica. No Scrum, o foco está na entrega rápida de incrementos de produto, permitindo validar resultados e realizar melhorias constantes com base no feedback recebido.
-                                                                                                                             <img src="ComparaçãoM.png"> 
+
+                                                                                                                             
+                                                                                                                             
+## Tabela  – Comparação entre metodologias de gerenciamento de projetos
+| Comparações | Scrum | Cascata (Waterfall) | Kanban | XP (Extreme Programming) | Lean |
+|----------|-------|---------------------|--------|---------------------------|------|
+| **Tipo de abordagem** | Metodologia ágil baseada em ciclos iterativos. | Metodologia tradicional baseada em etapas sequenciais. | Método ágil focado em fluxo contínuo de trabalho. | Metodologia ágil voltada para práticas de desenvolvimento de software. | Filosofia de gestão voltada para eficiência e eliminação de desperdícios. |
+| **Estrutura de trabalho** | Organização em Sprints com entregas incrementais. | Divisão do projeto em fases definidas e sequenciais. | Utiliza quadro visual para acompanhar o fluxo das tarefas. | Iterações curtas com forte integração entre desenvolvimento e testes. | Fluxo contínuo com foco na melhoria dos processos. |
+| **Planejamento** | Planejamento realizado a cada Sprint com base no backlog do produto. | Planejamento detalhado realizado no início do projeto. | Planejamento contínuo conforme a demanda de trabalho. | Planejamento frequente com interação constante com o cliente. | Planejamento orientado à geração de valor para o cliente. |
+| **Adaptação a mudanças** | Mudanças podem ser incorporadas entre as Sprints. | Mudanças são difíceis após o início do projeto. | Mudanças podem ocorrer a qualquer momento no fluxo. | Mudanças são esperadas e incorporadas rapidamente. | Mudanças são utilizadas para otimizar processos e eliminar desperdícios. |
+| **Papéis da equipe** | Product Owner, Scrum Master e Time de Desenvolvimento. | Estrutura tradicional com gerente de projeto e equipe. | Não exige papéis formais definidos. | Desenvolvedores trabalham próximos ao cliente. | Equipes multidisciplinares e colaborativas. |
+| **Foco principal** | Entrega contínua de valor ao cliente. | Cumprimento das fases planejadas do projeto. | Otimização do fluxo de trabalho. | Qualidade do código e boas práticas de programação. | Melhoria contínua e eficiência operacional. |
+
+
+
                                                                                                                              
                                                                                                                              
                                                                                                                              
