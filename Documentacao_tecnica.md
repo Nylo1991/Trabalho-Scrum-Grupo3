@@ -40,3 +40,15 @@ Migração ou refatoração de sistemas legados de grande porte, permitindo entr
 
 Em contrapartida, o Scrum é desaconselhado para projetos de domínio simples ou complicado/previsível (como manutenções corriqueiras de infraestrutura ou replicação de um software padrão sem customizações), onde a sobrecarga administrativa de cerimônias ágeis não justificaria o ganho de flexibilidade.
 
+
+
+3. FERRAMENTAS UTILIZADAS
+A execução do Scrum exige alta transparência, o que é viabilizado por ferramentas de Gestão de Ciclo de Vida de Aplicações (Application Lifecycle Management - ALM). Estas ferramentas digitalizam os quadros Kanban e centralizam a comunicação, sendo indispensáveis para o desenvolvimento de sistemas moderno:
+
+Jira Software (Atlassian): A ferramenta mais robusta e utilizada pelo mercado corporativo. Permite a gestão épica de requisitos, rastreamento de bugs e fornece relatórios essenciais para a inspeção ágil, como o Burndown Chart (que mede o esforço restante) e o gráfico de Velocity (que mede a capacidade de entrega da equipe).
+
+Azure DevOps (Microsoft): Extensamente utilizado em arquiteturas complexas. Seu diferencial é o módulo Azure Boards, que integra nativamente o planejamento das Sprints com repositórios Git e esteiras de CI/CD (Integração e Entrega Contínuas), automatizando testes e implantações sempre que a equipe finaliza uma tarefa.
+
+Trello e Asana: Ferramentas mais leves, focadas puramente na gestão visual via quadros Kanban. São altamente eficazes para equipes juniores, projetos acadêmicos ou startups em estágio inicial que buscam agilidade sem a complexidade de configuração do Jira.
+
+Confluence / Notion: Ferramentas de wiki corporativa. São essenciais para documentar regras de negócio complexas, arquitetura de banco de dados e APIs, complementando o princípio ágil de que a documentação deve ser útil e colaborativa.
