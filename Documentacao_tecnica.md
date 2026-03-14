@@ -43,6 +43,7 @@ Em contrapartida, o Scrum é desaconselhado para projetos de domínio simples ou
 
 
 3. FERRAMENTAS UTILIZADAS
+   
 A execução do Scrum exige alta transparência, o que é viabilizado por ferramentas de Gestão de Ciclo de Vida de Aplicações (Application Lifecycle Management - ALM). Estas ferramentas digitalizam os quadros Kanban e centralizam a comunicação, sendo indispensáveis para o desenvolvimento de sistemas moderno:
 
 Jira Software (Atlassian): A ferramenta mais robusta e utilizada pelo mercado corporativo. Permite a gestão épica de requisitos, rastreamento de bugs e fornece relatórios essenciais para a inspeção ágil, como o Burndown Chart (que mede o esforço restante) e o gráfico de Velocity (que mede a capacidade de entrega da equipe).
