@@ -1,5 +1,50 @@
 # Documentação Tecnica Scrum
 
+SENAI AFONSO GRECO 
+
+CURSO TÉCNICO EM DESENVOLVIMENTO DE SISTEMAS
+
+
+
+
+
+
+NOME: Danilo Silva Santos,
+Otávio Henrique Barbosa Soares
+
+PROFESSOR: Frederico Martins Aguiar
+
+
+ANÁLISE TÉCNICA: METODOLOGIA SCRUM E SUA APLICABILIDADE NO DESENVOLVIMENTO DE SOFTWARE
+
+
+
+
+
+
+NOVA LIMA - MG 2026
+Danilo Silva Santos,
+Otávio Henrique Barbosa Soares
+
+
+
+
+
+
+
+ANÁLISE TÉCNICA: METODOLOGIA SCRUM E SUA APLICABILIDADE NO DESENVOLVIMENTO DE SOFTWARE
+
+
+
+
+Trabalho técnico e acadêmico apresentado ao Curso Técnico em Desenvolvimento de Sistemas do SENAI, como requisito parcial para avaliação. 
+Professor: Frederico Martins Aguiar
+
+
+
+NOVA LIMA - MG 2026
+
+
 1. INTRODUÇÃO À METODOLOGIA
 No cenário contemporâneo da engenharia de software, a adaptabilidade e o tempo de resposta às demandas do mercado (Time-to-Market) são métricas críticas de sucesso. Tradicionalmente, o desenvolvimento de sistemas era regido por modelos preditivos e sequenciais, como o modelo em Cascata (Waterfall). Tais modelos baseiam-se na premissa de que todos os requisitos do sistema podem ser mapeados exaustivamente na fase inicial do projeto. Contudo, a alta volatilidade dos negócios demonstrou que essa abordagem engessada frequentemente resulta em softwares obsoletos no momento da entrega e em baixo Retorno sobre o Investimento (ROI).
 Como resposta a essas limitações, consolidaram-se as metodologias ágeis, impulsionadas pelo Manifesto Ágil de 2001. Dentro desse ecossistema, o Scrum emergiu como o framework (estrutura de trabalho) mais adotado mundialmente. Criado por Ken Schwaber e Jeff Sutherland, o Scrum não é um processo prescritivo ou uma técnica rígida, mas sim um framework leve, iterativo e incremental. Seu propósito central é auxiliar equipes e organizações a gerar valor de forma adaptativa para problemas complexos. O Scrum rompe com o modelo de comando e controle, instituindo uma cultura de autogerenciamento, onde a equipe técnica tem autonomia para decidir a melhor forma de transformar requisitos em um software funcional.
