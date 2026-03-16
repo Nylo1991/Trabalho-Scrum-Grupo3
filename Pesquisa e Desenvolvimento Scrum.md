@@ -2,6 +2,30 @@
 
 ## Documento de Pesquisa e Desenvolvimento
 
+SENAI AFONSO GRECO 
+
+CURSO TÉCNICO EM DESENVOLVIMENTO DE SISTEMAS
+
+
+
+
+
+
+NOME: Danilo Silva Santos,
+Otávio Henrique Barbosa Soares,
+Yhan Phillipe Barbosa Machado
+
+PROFESSOR: Frederico Martins Aguiar
+
+
+PESQUISA E DESENVOLVIMENTO: METODOLOGIA SCRUM 
+
+
+
+
+
+NOVA LIMA - MG 2026
+
 **1. Definição e Características Principais**
 
 Definição: O Scrum é um framework (estrutura de trabalho) ágil, leve e de fácil compreensão, utilizado para o desenvolvimento, a entrega e a manutenção de produtos complexos. Ao contrário das metodologias tradicionais que exigem um planejamento rígido e detalhado no início (como o modelo em Cascata), o Scrum assume que o conhecimento vem da experiência e de tomar decisões com base no que é observado. Esta abordagem é conhecida como Empirismo.
