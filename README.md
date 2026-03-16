@@ -26,6 +26,7 @@ mais adequados, Ferramentas associadas
 
 * **[Danilo]**
 
+  * Criação do Git
   * Pesquisa e Desenvolvimento Scrum:
   * Tópicos: 
   * Vantagens, Desvantagens -Exemplos de aplicabilidade em
