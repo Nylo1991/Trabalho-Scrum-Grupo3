@@ -16,12 +16,11 @@ A nossa equipe organizou-se utilizando práticas colaborativas, dividindo as res
 
   * Pesquisa e desenvolvimento Scrum
   * Tópicos:
-  * Elaboração da Introdução, -Definição e características principais -Tipos de projetos
-mais adequados -Ferramentas associadas
-(Padrão ABNT).
-  * Estruturação do repositório GitHub e versionamento (*Commits* atômicos).
+  * Elaboração da Introdução, Definição e características principais, Tipos de projetos
+mais adequados, Ferramentas associadas
+  * Estruturação do repositório GitHub e versionamento.
   * Criação da Documentação Técnica com os mesmos Tópicos
-  * Estruturação da Documentação técnica 
+  * Estruturação da Documentação técnica e padronização ABNT 
   * Compilação dos arquivos e envio ao professor.
 
 
@@ -31,13 +30,13 @@ mais adequados -Ferramentas associadas
   * Tópicos: 
   * Vantagens, Desvantagens -Exemplos de aplicabilidade em
 projetos reais -Comparação com outras metodologias.
-  * Estruturação do documento de entrega da pesquisa e desenvolvimento
-  * Criação da Documentação Técnica com os mesmos Tópicos
+  * Estruturação do documento de entrega da pesquisa e desenvolvimento e padronização ABNT.
+  * Aplicação de conteudo da Documentação Técnica com os mesmos Tópicos da pesquisa.
 
 
 * **[Yhan]**
   * Revisão final da Documentação Técnica (PDF).
-  * Estruturação da Apresentação no Canva.
+  * Estruturação da Apresentação no Canva / Power Point.
   
 
 ##  Estrutura do Repositório
@@ -47,8 +46,8 @@ Neste repositório, você encontrará os seguintes artefatos que compõem a noss
 *  `Documentacao_tecnica.md`: O documento técnico detalhado com a pesquisa completa sobre a metodologia (base para o PDF final).
 *  `Pesquisa e Pesenvolvimento Scrum.md`: A pesquisa inicial sobre o que e a metodologia Scrum
 * **PDFs Finais (Disponíveis para Download):**
-  * `Documento_Tecnico_Scrum_ABNT.pdf` *(A ser adicionado)*
-  * `Apresentacao_Scrum_Canva.pdf` *(A ser adicionado)*
+  * `Documento_Tecnico_Scrum.pdf` 
+  * `Apresentacao_Scrum_Canva.pdf` 
 
 ---
 
