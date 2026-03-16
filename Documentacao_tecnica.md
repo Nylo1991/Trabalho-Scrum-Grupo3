@@ -10,7 +10,8 @@ CURSO TÉCNICO EM DESENVOLVIMENTO DE SISTEMAS
 
 
 NOME: Danilo Silva Santos,
-Otávio Henrique Barbosa Soares
+Otávio Henrique Barbosa Soares,
+Yhan Phillipe Barbosa Machado
 
 PROFESSOR: Frederico Martins Aguiar
 
@@ -24,7 +25,8 @@ ANÁLISE TÉCNICA: METODOLOGIA SCRUM E SUA APLICABILIDADE NO DESENVOLVIMENTO DE 
 
 NOVA LIMA - MG 2026
 Danilo Silva Santos,
-Otávio Henrique Barbosa Soares
+Otávio Henrique Barbosa Soares,
+Yhan Phillipe Barbosa Machado
 
 
 
