@@ -47,8 +47,8 @@ Neste repositório, você encontrará os seguintes artefatos que compõem a noss
 *  `Documentacao_tecnica.md`: O documento técnico detalhado com a pesquisa completa sobre a metodologia (base para o PDF final).
 *  `Pesquisa e Pesenvolvimento Scrum.md`: A pesquisa inicial sobre o que e a metodologia Scrum
 * **PDFs Finais (Disponíveis para Download):**
-  * `Documento_Tecnico_Scrum.pdf` 
-  * `Apresentacao_Scrum_Canva.pdf` 
+  * `Documentacao Tecnica - Scrum.pdf` 
+  * `Pesquisa e Desenvolvimento Metodologia Scrum.pdf` 
 
 ---
 
